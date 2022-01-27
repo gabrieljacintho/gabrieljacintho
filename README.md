@@ -1,9 +1,9 @@
-<h1 align="center">Olá dev, meu nome é Gabriel! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Olá dev, meu nome é Gabriel Jacintho!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <h3 align="center">Sou Game Dev, instrutor na mesma área e estudante de tecnologia</h3>
 
 - ▶️ Regularmente publico vídeos sobre Game Dev em [Teoria dos Jogos Digitais](https://www.youtube.com/TeoriadosJogosDigitais)
 
-- 📕 Atualmente estudo **HTML, CSS e JavaScript**
+- 📕 Atualmente estudo **Unreal Engine e C++**
 
 - ⚡ Desenvolvo jogos usando a **Unity Engine**
 
