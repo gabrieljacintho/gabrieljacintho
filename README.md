@@ -6,8 +6,8 @@
 <div align="center">
   <a href="https://deadlyraingame.com" target="_blank">Deadly Rain</a>,&nbsp
   <a href="https://store.steampowered.com/app/1818250/BOXNIGMA/" target="_blank">BOXNIGMA</a>,&nbsp
-  <a href="https://play.google.com/store/apps/details?id=com.bertasso.bily" target="_blank">Billy Jumper</a>&nbsp
-  and more on <a href="https://store.steampowered.com/publisher/gabrieljacintho" target="_blank">Steam</a> and <a href="https://play.google.com/store/apps/dev?id=8289050607186412422" target="_blank">Play Store</a>!
+  <a href="https://play.google.com/store/apps/details?id=com.bertasso.bily" target="_blank">Billy Jumper</a>
+  and more on <a href="https://store.steampowered.com/publisher/gabrieljacintho" target="_blank">Steam</a> and <a href="https://play.google.com/store/apps/dev?id=8289050607186412422" target="_blank">Play Store</a>!</br></br>
 </div>
 
 <p align="center">
