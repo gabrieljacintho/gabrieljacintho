@@ -7,12 +7,9 @@
   <a href="https://deadlyraingame.com" target="_blank">Deadly Rain</a>,&nbsp
   <a href="https://store.steampowered.com/app/1818250/BOXNIGMA/" target="_blank">BOXNIGMA</a>,&nbsp
   <a href="https://play.google.com/store/apps/details?id=com.bertasso.bily" target="_blank">Billy Jumper</a>
-  and more on <a href="https://store.steampowered.com/publisher/gabrieljacintho" target="_blank">Steam</a> and <a href="https://play.google.com/store/apps/dev?id=8289050607186412422" target="_blank">Play Store</a>!</br></br>
+  and more on <a href="https://store.steampowered.com/publisher/gabrieljacintho" target="_blank">Steam</a> and <a href="https://play.google.com/store/apps/dev?id=8289050607186412422" target="_blank">Play Store</a>!
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieljacintho&show_icons=true" alt="gabrieljacintho"/>
-</p>
+</br></br>
 
 <h3 align="center">Contacts</h3>
 
@@ -22,3 +19,8 @@
   <a href = "mailto:gabrieljacintho868@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp
   <a href="https://www.linkedin.com/in/gabrielbertasso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+</br></br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieljacintho&show_icons=true" alt="gabrieljacintho"/>
+</p>
