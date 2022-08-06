@@ -1,12 +1,13 @@
 <h1 align="center">Hi, my name is Gabriel Jacintho! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<h3 align="center">Unity Game Developer</h3>
+<h2 align="center">Unity Game Developer</h2>
 
 <h3 align="center">My Games</h3>
+
 <div align="center">
-  <a href="https://deadlyraingame.com" target="_blank">Deadly Rain</a></br>
-  <a href="https://store.steampowered.com/app/1818250/BOXNIGMA/" target="_blank">BOXNIGMA</a></br>
-  <a href="https://play.google.com/store/apps/details?id=com.bertasso.bily" target="_blank">Billy Jumper</a></br>
-  And more on <a href="https://store.steampowered.com/publisher/gabrieljacintho" target="_blank">Steam</a> and <a href="https://play.google.com/store/apps/dev?id=8289050607186412422" target="_blank">Play Store</a>!
+  <a href="https://deadlyraingame.com" target="_blank">Deadly Rain</a>,&nbsp
+  <a href="https://store.steampowered.com/app/1818250/BOXNIGMA/" target="_blank">BOXNIGMA</a>,&nbsp
+  <a href="https://play.google.com/store/apps/details?id=com.bertasso.bily" target="_blank">Billy Jumper</a>&nbsp
+  and more on <a href="https://store.steampowered.com/publisher/gabrieljacintho" target="_blank">Steam</a> and <a href="https://play.google.com/store/apps/dev?id=8289050607186412422" target="_blank">Play Store</a>!
 </div>
 
 <p align="center">
