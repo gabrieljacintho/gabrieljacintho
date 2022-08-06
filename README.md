@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Gabriel Jacintho! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<h2 align="center">Unity Game Developer</h2>
+<h3 align="center">Unity Game Developer</h3>
 
 <h3 align="center">My Games</h3>
 
