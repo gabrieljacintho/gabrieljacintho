@@ -1,15 +1,22 @@
-<h1 align="center">Olá dev, meu nome é Gabriel Jacintho! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<h3 align="center">Desenvolvedor de Games Unity</h3>
+<h1 align="center">Hi, my name is Gabriel Jacintho! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h3 align="center">Unity Game Developer</h3>
+
+### My Games:
+
+- <a href="https://deadlyraingame.com" target="_blank">Deadly Rain</a>
+- <a href="https://store.steampowered.com/app/1818250/BOXNIGMA/" target="_blank">BOXNIGMA</a>
+- <a href="https://play.google.com/store/apps/details?id=com.bertasso.bily" target="_blank">Billy Jumper</a>
+- And more on <a href="https://store.steampowered.com/publisher/gabrieljacintho" target="_blank">Steam</a> and <a href="https://play.google.com/store/apps/dev?id=8289050607186412422" target="_blank">Play Store</a>!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrieljacintho&show_icons=true" alt="gabrieljacintho"/>
 </p>
 
-<p align="center">
-  <a href="https://play.google.com/store/apps/dev?id=8289050607186412422" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg" alt="Google Play" height="20" width="20" /> </a> &nbsp
-  <a href="https://store.steampowered.com/publisher/gabrieljacintho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="Steam" height="20" width="20" /> </a> &nbsp
-  <a href="https://www.youtube.com/c/FireRingStudio?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="20" width="20" /> </a> &nbsp
-  <a href="https://www.instagram.com/gabriel.jacintho/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="20" width="20" /> </a> &nbsp
-  <a href="https://fb.com/jacinthogabriel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="20" width="20" /> </a> &nbsp
-  <a href="https://www.linkedin.com/in/gabrielbertasso/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /> </a>
-</p>
+### Contacts:
+
+<div>
+  <a href="https://www.youtube.com/c/FireRingStudio?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/gabriel.jacintho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrieljacintho868@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielbertasso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
