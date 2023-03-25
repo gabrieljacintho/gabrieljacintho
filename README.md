@@ -4,7 +4,7 @@
 <h3 align="center">My Games</h3>
 
 <div align="center">
-  <a href="https://deadlyraingame.com" target="_blank">Deadly Rain</a>,
+  <a href="https://store.steampowered.com/app/1902250/Deadly_Rain/" target="_blank">Deadly Rain</a>,
   <a href="https://store.steampowered.com/app/1818250/BOXNIGMA/" target="_blank">BOXNIGMA</a>,
   <a href="https://play.google.com/store/apps/details?id=com.bertasso.bily" target="_blank">Billy Jumper</a>
   and more on <a href="https://store.steampowered.com/publisher/gabrieljacintho" target="_blank">Steam</a> and <a href="https://play.google.com/store/apps/dev?id=8289050607186412422" target="_blank">Play Store</a>!
