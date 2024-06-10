@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Gabriel Jacintho! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Hi, my name is Gabriel Jacinth! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrieljacintho&show_icons=true" alt="gabrieljacintho"/>
