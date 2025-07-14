@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Gabriel Bertasso! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Hello, my name is Gabriel Bertasso! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 I'm a senior Unity game developer with +5 years of experience developing games with the Unity Engine.
 
