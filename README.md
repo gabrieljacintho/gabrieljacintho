@@ -2,7 +2,7 @@
 
 I'm a senior Unity game developer with +5 years of experience developing games with the Unity Engine.
 
-Throughout my career, I've participated in the development of +24 commercial projects, including mobile, PC, and web games available on platforms such as the Google Play Store, App Store, Steam, CrazyGames, and itch.io.
+Throughout my career, I've worked on the development of +24 commercial projects, including mobile, PC, and web games available on platforms such as the Google Play Store, App Store, Steam, CrazyGames, and itch.io.
 
 I've worked at game studios Pandora Game Studio and 67 Bits, and with the publisher Ritual Interactive.
 
