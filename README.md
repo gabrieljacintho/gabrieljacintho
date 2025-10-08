@@ -4,7 +4,7 @@ I am a Senior Unity Game Developer with 5+ years of experience developing games 
 
 Throughout my career, I've worked on the development of 24+ commercial projects, including mobile, PC, and web games, available on platforms such as Google Play, App Store, Steam, CrazyGames, and itch.io.
 
-I've collaborated with game studios such as Pandora Game Studio and 67 Bits, and with international game publishers such as CreativeForge Games and Ritual Interactive. Today, I work at FireRing Studio, my own indie game studio, developing premium horror games for PC and consoles.
+I've collaborated with game studios such as Pandora Game Studio and 67 Bits, and with international game publishers such as CreativeForge Games and Ritual Interactive. Today, I work at FireRing Studio, my own indie game studio, developing premium horror games for PC.
 
 Core Skills: Unity | Unreal | C# | C++ | Version Control (Git) | Photon (Multiplayer) | Game Publishing
 
