@@ -6,7 +6,7 @@ Throughout my career, I've worked on the development of 24+ commercial projects,
 
 I've collaborated with game studios such as Pandora Game Studio and 67 Bits, as well as publishers including CreativeForge Games and Ritual Interactive. Today, I work at FireRing Studio, my own indie game studio, developing premium horror games for PC.
 
-Core Skills: Unity | Unreal | C# | C++ | Version Control (Git) | Photon (Multiplayer) | Game Publishing
+Core Skills: Unity | Unreal | C# | C++ | Version Control (Git) | Photon Engine (Multiplayer) | Game Publishing
 
 Explore my work: <a href="https://gabrielbertasso.com/">gabrielbertasso.com</a>
 
