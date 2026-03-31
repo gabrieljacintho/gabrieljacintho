@@ -1,12 +1,12 @@
 <h1 align="center">Hello, my name is Gabriel Bertasso! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-I am a Senior Unity Game Developer with 7+ years of experience developing games with Unity Engine. ​
+Senior Unity Developer with 7+ years of experience developing games with Unity Engine and C#. Worked on the development of 27+ commercial projects, including mobile, PC, and web games, available on platforms such as Google Play, App Store, Steam, CrazyGames, and itch.io. 
 
-Throughout my career, I've worked on the development of 27+ commercial projects, including mobile, PC, and web games, available on platforms such as Google Play, App Store, Steam, CrazyGames, and itch.io.
+Strong background in systems architecture, performance optimization, multiplayer systems, and cross-platform development.
 
-I've collaborated with game studios such as Pandora Game Studio, 67 Bits, and Timedrift Collective, as well as publishers including CreativeForge Games and Ritual Interactive. In my free time, I work at FireRing Studio, my own indie game studio, developing premium horror games for PC.
+Experience working with publishers, leading projects as a founder, and collaborating in multidisciplinary teams on games with millions of downloads.
 
-Core Skills: Unity | C# | Version Control (Git) | FishNet | Game Design
+Core Skills: Unity | C# | Version Control (Git) | Multiplayer (Photon Engine, FishNet) | Monetization
 
 Explore my work: <a href="https://gabrielbertasso.com/">gabrielbertasso.com</a>
 
