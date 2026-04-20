@@ -6,7 +6,7 @@ Strong background in systems architecture, performance optimization, multiplayer
 
 Experience working with publishers, leading projects as a founder, and collaborating in multidisciplinary teams on games with millions of downloads.
 
-Core Skills: Unity | C# | Version Control (Git) | Multiplayer (Photon Engine, FishNet) | Monetization
+Core Skills: Unity | C# | Version Control (Git) | Multiplayer Networking (Photon Engine, FishNet) | Monetization
 
 Explore my work: <a href="https://gabrielbertasso.com/">gabrielbertasso.com</a>
 
